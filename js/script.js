@@ -56,11 +56,10 @@ ScrollReveal().reveal(".home-content p, .about-content", { origin: "right" });
 
 // typed js
 const typed = new Typed(".multiple-text", {
-  string: ["Frontend Developer", "Design Graphic", "Backend Developer"],
+  strings: ["Frontend Developer", "Design Graphic", "Video Editor"],
   typeSpeed: 100,
   typeSpeed: 100,
   typeDelay: 1000,
   loop: true,
 });
 
-// https://www.youtube.com/watch?v=Tkp3FDgOueM&t=11s&ab_channel=Codehal 1.12.52
